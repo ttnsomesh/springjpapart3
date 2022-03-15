@@ -1,0 +1,8 @@
+Question 9.
+Which method on the session object can be used to remove an object from the cache?
+Answer : clear() method
+
+Question 10.
+What does @transactional annotation do?
+Answer:
+@transactional describes a transaction attribute on an individual method or on a class. When this annotation is declared at the class level, it applies as a default to all methods of the declaring class and its subclasses.
